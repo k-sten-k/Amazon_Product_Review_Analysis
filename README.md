@@ -31,6 +31,7 @@ and name it `amazon_product_reviews.csv`. Ensure the dataset includes a column n
 *Figure 1: Sentiment Analysis Results*
 
 ![Similarity Score](screenshots/similarity_score.png)
+
 *Figure 2: Similarity Score*
 
 ## Credits
